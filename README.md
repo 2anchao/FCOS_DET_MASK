@@ -15,6 +15,7 @@ can modify in model/config.py.
 python train.py.  
 
 ## inference 
+people who wear mask will be mark face_mask label.   
 <div align=center><img src="https://github.com/2anchao/FCOS_DET_MASK/show/img2.jpg" width="400" height="500" /></div>
-
+people who not wear mask will be mask face label only.   
 <div align=center><img src="https://github.com/2anchao/FCOS_DET_MASK/show/7c24ab1d2ddbdf65.jpg" width="500" height="360" /></div>
