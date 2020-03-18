@@ -9,8 +9,8 @@ pip install TensorBoard.
 ## data
 use VOC format, and data can download in https://pan.baidu.com/s/1hssdO_I7vFnSyIw6GuzUBw  Password: 6yr1. 
 ## parameters change
-can modify in model/config.py.   
-
+can modify in model/config.py.     
+the backbone support choice in resnet18 and vovnet39.   
 ## train 
 python train.py.  
 
