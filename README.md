@@ -32,5 +32,5 @@ the code refer ro:https://github.com/VectXmy/FCOS.Pytorch.
 
 ## Other Test
 I find use GN in head is better.  
-I find use deformable_conv in head is better, I only instead of the first general_conv in head.  refer ro:https://github.com/ChunhuanLin/deform_conv_pytorch. 
+I find use deformable_conv in head is better, I only instead of the first general_conv in head.  refer ro:https://github.com/ChunhuanLin/deform_conv_pytorch.  
 I find use ELU in head instead of Relu is better.  
