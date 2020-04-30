@@ -13,6 +13,8 @@ can modify in model/config.py.
 the backbone support choice in resnet18 and vovnet39.   
 ## train 
 python train.py.  
+Focal loss for class:  
+<div align=center><img src="https://github.com/2anchao/FCOS_DET_MASK/blob/master/show/focal_loss.png" width="400" height="500" /></div>
 
 ## inference 
 people who wear mask will be mark face_mask label.   
