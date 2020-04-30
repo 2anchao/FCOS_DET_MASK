@@ -162,6 +162,6 @@ if __name__=="__main__":
     mAP=0.
     for class_id,class_mAP in all_AP.items():
         mAP+=float(class_mAP)
-    mAP/=(len(eval_dataset.CLASSES_NAME)+1)
+    mAP/=(len(eval_dataset.CLASSES_NAME))
     print("mAP=====>%.3f\n"%mAP)
 
