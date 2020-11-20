@@ -35,4 +35,4 @@ I find use GN in head is better.
 I find use deformable_conv in head is better, I only instead of the first general_conv in head.  refer ro:https://github.com/ChunhuanLin/deform_conv_pytorch.  
 I find use ELU in head instead of Relu is better.    
 - Please show love to me who is live in the poor mountainous area(optional)
-<div align=center><img src="https://github.com/2anchao/FCOS_DET_MASK/blob/master/show/pay.jpeg" width="400" height="300" /></div>
+<div align=center><img src="https://github.com/2anchao/FCOS_DET_MASK/blob/master/show/pay.jpeg" width="200" height="350" /></div>
